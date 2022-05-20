@@ -1,4 +1,1 @@
-- °*✧internet demon✧*° | coordinator & lead of writers for @dsmptas | voice actor in voices of wynn | fantasy lore enthusiast | multifandom lurker
-- Learning how to code all sorts of stuff.
-- [CURRENTLY: Attempting to code an all purpose discord bot]
-- Would appreciate guidance.
+Would definitely appreciate guidance on coding whenever possible. It gets confusing at times.
